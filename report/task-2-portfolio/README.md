@@ -17,4 +17,5 @@ I hope to learn more about artificial intelligence, coding, machine learning, an
 - GitHub Collaboration
 
 ## Connect With Me
-- LinkedIn: *(add your LinkedIn profile link here)*
+- LinkedIn: *<img width="993" height="462" alt="Screenshot 2026-03-28 152936" src="https://github.com/user-attachments/assets/fab4f413-7c68-48f2-91f2-b88a64427134" />
+
