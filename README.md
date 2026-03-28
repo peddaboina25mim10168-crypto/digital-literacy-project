@@ -30,7 +30,7 @@ Drafted two professional emails and created a social media do’s and don’ts c
 Prepared a case study on cybercrime and created a prevention checklist for students.
 
 ## Useful Links
-- **GitHub Profile:** 
+- **GitHub Profile:** https://github.com/peddaboina25mim10168-crypto/Harsha-repo/blob/main/README.md
 - **LinkedIn Profile:** <img width="993" height="462" alt="Screenshot 2026-03-28 152936" src="https://github.com/user-attachments/assets/762a66f5-d287-481a-99f4-59a8310713ff" />
 
 - **Google Form Link:** https://docs.google.com/forms/d/e/1FAIpQLSe3g-IrwCG2mAoUvPVxrc5tVs3Lic1gsWSaN4COyCG0ewKiyw/viewform?usp=publish-editor
