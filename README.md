@@ -31,7 +31,8 @@ Prepared a case study on cybercrime and created a prevention checklist for stude
 
 ## Useful Links
 - **GitHub Profile:** [Add your GitHub profile link here]
-- **LinkedIn Profile:** [Add your LinkedIn profile link here]
+- **LinkedIn Profile:** <img width="993" height="462" alt="Screenshot 2026-03-28 152936" src="https://github.com/user-attachments/assets/762a66f5-d287-481a-99f4-59a8310713ff" />
+
 - **Google Form Link:** [Paste your Google Form link here]
 
 ## Repository Structure
