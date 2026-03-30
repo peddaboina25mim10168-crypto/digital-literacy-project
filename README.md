@@ -31,7 +31,7 @@ Prepared a case study on cybercrime and created a prevention checklist for stude
 
 ## Useful Links
 - **GitHub Profile:** https://github.com/peddaboina25mim10168-crypto/Harsha-repo/blob/main/README.md
-- **LinkedIn Profile:** www.linkedin.com/in/peddaboina-harsha-vardhan-45-
+- **LinkedIn Profile:**https://www.linkedin.com/in/peddaboina-harsha-vardhan-45-?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 - **Google Form Link:** https://docs.google.com/forms/d/1Dnls1Gw6AT7gAHqdZqQEUHR2IM101aQonxde4HKdReU/edit
 
